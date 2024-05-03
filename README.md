@@ -420,8 +420,6 @@ export default MeetingCard;
 
 </details>
 
-## <a name="links">🔗 Links</a>
-
 ## <a name="more">🚀 More</a>
 
 **Advance your skills with Next.js 14 Pro Course**
